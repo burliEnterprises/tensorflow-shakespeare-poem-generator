@@ -31,7 +31,10 @@ Simply extract the files into the "checkpoints" directory
 > python3 rnn_play.py
 ``` 
    
-The script **rnn_play.py** uses a trained checkpoint to generate a new "Shakespeare" play.  
+The script **rnn_play.py** uses a trained checkpoint to generate a new "Shakespeare" play. 
+You can see the output in the terminal as well as in the file "output_generated.txt"
+
+Have fun!
 
 
 ## Some generated Shakespeare poem
