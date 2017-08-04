@@ -1,5 +1,6 @@
 # tensorflow-shakespeare-poem-generator
 generates new poem using a Tensorflow RNN
+Read more about it on  Medium: https://medium.com/@m_ko/deep-learning-with-tensorflow-part-3-music-and-text-generation-370cf37bb071
 
 The basis of this project comes from Martin Gorner, I just added a small portion to it.
 Original project: https://github.com/martin-gorner/tensorflow-rnn-shakespeare
