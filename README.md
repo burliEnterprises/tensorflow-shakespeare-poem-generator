@@ -4,7 +4,7 @@ generates new poem using a Tensorflow RNN
 The basis of this project comes from Martin Gorner, I just added a small portion to it.
 Original project: https://github.com/martin-gorner/tensorflow-rnn-shakespeare
 
-Code for the Recurrent Neural Network in the presentation "Tensorflow and deep learning - without a PhD, Part 2" from Google
+Code for the Recurrent Neural Network in the presentation "Tensorflow and deep learning - without a PhD, Part 2" from Google. 
 The presentation itself is available here:
 
 * [Video](https://t.co/cIePWmdxVE)
