@@ -1,4 +1,6 @@
 # tensorflow-shakespeare-poem-generator
+<img src="https://github.com/koflerm/tensorflow-shakespeare-poem-generator/blob/master/text.png?raw=true"/>
+</br>
 generates new poem using a Tensorflow RNN
 Read more about it on  Medium: https://medium.com/@m_ko/deep-learning-with-tensorflow-part-3-music-and-text-generation-370cf37bb071
 
